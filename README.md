@@ -2,4 +2,4 @@
 
 Summary:
 
-Two projects consisting of multiple models for a robot target system and its development.
+Two projects consisting of multiple models for a robot target system.
